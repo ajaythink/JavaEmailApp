@@ -33,13 +33,16 @@ So the steps 1st
 1. GET THE SESSION
 2. COMPOSE THE MESSAGE
 3. SEND THE MESSAGE
+
 ___Required dependency___
+https://mvnrepository.com/artifact/com.sun.mail/javax.mail/1.6.2
 <!-- https://mvnrepository.com/artifact/com.sun.mail/javax.mail -->
-<dependency>
+#<dependency>
     <groupId>com.sun.mail</groupId>
     <artifactId>javax.mail</artifactId>
     <version>1.6.2</version>
-</dependency>
+#</dependency>
+
 __Email password__
 App passwords
 App passwords let you sign in to your Google Account from apps on devices that don't support 2-Step Verification. You'll only need to enter it once so you don't need to remember it. Learn more
