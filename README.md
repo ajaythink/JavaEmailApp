@@ -41,3 +41,5 @@ So the steps 1st
     <version>1.6.2</version>
 </dependency>
 
+App passwords
+App passwords let you sign in to your Google Account from apps on devices that don't support 2-Step Verification. You'll only need to enter it once so you don't need to remember it. Learn more
