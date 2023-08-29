@@ -46,3 +46,4 @@ https://mvnrepository.com/artifact/com.sun.mail/javax.mail/1.6.2
 __Email password__
 App passwords
 App passwords let you sign in to your Google Account from apps on devices that don't support 2-Step Verification. You'll only need to enter it once so you don't need to remember it. Learn more
+https://myaccount.google.com/u/4/apppasswords?pli=1&rapt=AEjHL4Mf66FsaaQkM5rST4-ri-h1qomknd66LUQGPqobkrLSCob0cMOiVIofKYioBnS-GkkQ6jx_aQ8QLCZY9sLREJAOq9omeg
