@@ -34,4 +34,10 @@ So the steps 1st
 2. COMPOSE THE MESSAGE
 3. SEND THE MESSAGE
 
+<!-- https://mvnrepository.com/artifact/com.sun.mail/javax.mail -->
+<dependency>
+    <groupId>com.sun.mail</groupId>
+    <artifactId>javax.mail</artifactId>
+    <version>1.6.2</version>
+</dependency>
 
